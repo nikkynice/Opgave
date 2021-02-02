@@ -1,8 +1,9 @@
 # Opgave
 <!DOCTYPE html>
 <html>
-<header>
-</header>
+<head>
+  <meta charset="utf-8" />
+</head>
 <body>
 
 <h1>opgave 1</h1>
